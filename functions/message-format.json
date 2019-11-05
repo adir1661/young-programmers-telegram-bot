@@ -1,0 +1,23 @@
+{
+  "update_id": 737491305,
+  "message": {
+    "message_id": 6,
+    "from": {
+      "id": 484148845,
+      "is_bot": false,
+      "first_name": "Adir",
+      "last_name": "Abargil",
+      "username": "abargil",
+      "language_code": "en"
+    },
+    "chat": {
+      "id": 484148845,
+      "first_name": "Adir",
+      "last_name": "Abargil",
+      "username": "abargil",
+      "type": "private"
+    },
+    "date": 1572602485,
+    "text": "hi"
+  }
+}
